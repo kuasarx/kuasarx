@@ -55,12 +55,20 @@ Feel free to explore my GitHub repositories to see more of my work!
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=kuasarx&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-***
-### Most Used Languages 💻
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kuasarx&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kuasarx&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kuasarx&show_icons=true" />
+</picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuasarx&layout=compact&theme=midnight-purple)](https://github.com/kuasarx)
-[![kuasarx's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuasarx)](https://github.com/anuraghazra/github-readme-stats)
+***
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kuasarx&no-frame=true&no-bg=true&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
