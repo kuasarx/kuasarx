@@ -13,7 +13,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything code related.
 - 📫 How to reach me: connect with me on [LinkedIn](https://www.linkedin.com/in/juan-antonio-camacho-7baa00128) or with [Facebook](https://www.facebook.com/kuasarx).
 - ⚡ Fun fact: I am fluent in over 4 languages.
+- 🥇 2x Times PHPClasses.org Innovation award nominee.
+- 🏆 1x Times PHPClasses.org Innovation award WINNER (August 2023).
 
+  <p align="center">
+  <img width="200px" src="https://github.com/kuasarx/php-scan/assets/34275535/866802dd-1ac6-4f98-9d31-e907b3df6e8c" />  
+  </p>
 Here are a few projects I'm currently working on:
 
 1. [NanoPhp](https://github.com/kuasarx/NanoPhp) - NanoPhp is an attempt to a minimalist PHP framework designed to provide a lightweight and flexible foundation for web application development. It's all about efficiency and simplicity.
